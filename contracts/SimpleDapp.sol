@@ -1,4 +1,4 @@
-solidity ^0.4.10;
+solidity ^0.4.11;
 
 contract SimpleDapp {
 
